@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079549046066",
+    "firebase_url": "https://chat-app-ffae8-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-ffae8",
+    "storage_bucket": "chat-app-ffae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079549046066:android:db2f9dcb9d15fb52ccbb2b",
+        "android_client_info": {
+          "package_name": "com.chtt.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079549046066-4ifmv70h5a0t47pr40vpt8u4mcoh8f8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49BxOk1pO0ohhZuYzNYfbGQOBtpEoTVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079549046066-4ifmv70h5a0t47pr40vpt8u4mcoh8f8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079549046066-64r2eomhu7pu8r6t6rqkjgg5i6s9e6ac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chtt.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
